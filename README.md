@@ -194,3 +194,22 @@ Unary forever! ♥️
 
 If you have any questions about publishing your code on GitHub, need assistance with further scaling, or want to explore additional functionalities, feel free to ask. Congratulations on your successful implementation and the insights gained from your experiments!
 
+the fast one train fast on smaller dataset
+Preparing dataset...
+Dataset prepared with 10201 samples
+Starting training...
+Training completed in 2.3738 seconds
+
+Testing the neuron:
+Testing completed in 0.0675 seconds
+Accuracy: 100.00%
+
+Random Testing Results:
+Total Tests: 1000
+Correct Predictions: 1000
+Accuracy: 100.00%
+Random testing completed in 0.0084 seconds
+
+[Program finished]
+the one with larger dataset is the other spit out model too
+
